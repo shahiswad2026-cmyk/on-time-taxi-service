@@ -1,0 +1,6 @@
+{
+  "name": "On Time Taxi Service | Meghalaya",
+  "description": "Reliable, comfortable taxi service across Meghalaya including Shillong, Sohra, Dawki, and Mawlynnong. Simple WhatsApp booking at Rs 5,000 per day.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
